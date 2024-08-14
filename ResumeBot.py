@@ -12,7 +12,7 @@ sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
 
 data_directory = os.path.join(os.path.dirname(__file__), "data")
 
-os.environ["HUGGINGFACEHUB_API_TOKEN"]
+os.environ["HUGGINGFACEHUB_API_TOKEN"] = st.secrets["HUGGINGFACEHUB_API_TOKEN"]
 
 # Load the vector store from disk
 embedding_model = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
