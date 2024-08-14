@@ -101,7 +101,7 @@ initial_message = """
     How can I assist you in exploring Kaushikee's professional expertise and accomplishments? To get started, here are some questions you can ask me:\n
         What are Kaushikee's skills?\n
         How many years of work experience she has?\n
-        What are some notable projects she has completed? \n
+        On what projects she has worked on? \n
         Which certifications has she earned?\n
         What makes her a standout candidate?"""
 # Store LLM generated responses
