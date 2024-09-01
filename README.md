@@ -1,5 +1,6 @@
 # KBot - Kaushikee's Virtual Assitant [RAG Chatbot] 
 
+### Walkthrough video - https://youtu.be/giBb05bV0XY 
 ------------------------
 ## Project Overview
  AI-powered chatbot using Retrieval-Augmented Generation (RAG) that showcases personal skills, projects, and achievements. The chatbot allows users to submit natural language queries about the portfolio owner's profile, providing an interactive and engaging experience.
