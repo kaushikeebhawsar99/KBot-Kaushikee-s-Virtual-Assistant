@@ -1,5 +1,5 @@
-from EvaluationMetrics import evaluate_metrics
-import numpy as np
+# from EvaluationMetrics import evaluate_metrics
+# import numpy as np
 import streamlit as st
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_community.vectorstores import Chroma
