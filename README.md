@@ -1,4 +1,4 @@
-# KBot - Kaushikee's Virtual Assitant [RAG Chatbot] 
+# 🤖 KBot - Kaushikee's Virtual Assitant [RAG Chatbot] 👩🏻‍💻
 
 ### Walkthrough video - https://youtu.be/giBb05bV0XY 
 ------------------------
